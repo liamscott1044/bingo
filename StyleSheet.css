@@ -13,6 +13,6 @@ h1 {
   -webkit-text-stroke: 0.5px black;
 }
 .box{
-  position: absolute;
+  position: relative;
   text-align: center;
 }
