@@ -5,3 +5,7 @@ h1 {
   font-size: 300%;
   font-style: italic;
 }
+.box{
+  position: absolute;
+  text-align: center;
+}
