@@ -9,7 +9,7 @@ h1 {
   font-family: 'CrucifixionRegular';
   font-size: 9vw;
   font-style: italic;
-  -webkit-text-stroke: 10vw black;
+  -webkit-text-stroke: 0.5vw black;
 }
 .box{
   position: absolute;
