@@ -1,10 +1,13 @@
 body {background-color: white}
 h1 {
-  color: rgb(37, 187, 39);;
-  font-family: arial;
+  color: rgb(37, 187, 39);
+  @font-face{
+    font-family: "CrucifixionRegular";
+    src: url("CrucifixionRegular-xKd8.ttf") (format ('woff2');
+  }
   font-size: 300%;
   font-style: italic;
-  -webkit-text-stroke: 3.5px black;
+  -webkit-text-stroke: 1px black;
 }
 .box{
   position: absolute;
