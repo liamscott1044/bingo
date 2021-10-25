@@ -1,12 +1,12 @@
 @font-face{
-    font-family: "CrucifixionRegular";
-    src: url("CrucifixionRegular-xKd8.ttf");
+    font-family: Bjork;
+    src: url("bjork.ttf");
 }
 
 body {background-color: white}
 h1 {
   color: rgb(37, 187, 39);
-  face-family: 'CrucifixionRegular';
+  face-family: Bjork;
   font-size: 300%;
   font-style: italic;
   -webkit-text-stroke: 1px black;
