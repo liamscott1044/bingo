@@ -10,7 +10,7 @@ h1 {
   font-size: 9vw;
   text-align: center;
   -webkit-text-stroke: 0.15vw black;
-  top: -50%;
+  top: -50px;
 }
 .box{
   position: absolute;
