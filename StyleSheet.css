@@ -1,6 +1,6 @@
 @font-face{
     font-family: CrucifixionRegular;
-    src: url("CrucifixionRegular-wO2Z.otf") format("opentype");
+    src: url("fonts/CrucifixionRegular-wO2Z.otf") format("opentype");
 }
 
 body {background-color: white}
