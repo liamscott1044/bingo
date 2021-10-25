@@ -8,6 +8,12 @@
 <title> bingo.bingo.bingo.bingo</title>
 <link rel="shortcut icon" type="image/png" href="images/favicon1.PNG"/>
 
+history.scrollRestoration = "manual";
+
+$(window).on('beforeunload', function(){
+      $(window).scrollTop(0);
+});
+	
 <body>
 
 <div class="box">	
