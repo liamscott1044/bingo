@@ -17,5 +17,6 @@ h1 {
 }
 .text{
   background-color: yellow;
-  block-size: "50%";
+  block-size: 100%;
+  text-size: 100%;
 }
