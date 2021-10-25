@@ -4,7 +4,7 @@ h1 {
   font-family: arial;
   font-size: 300%;
   font-style: italic;
-  -webkit-text-stroke: 1px yellow;
+  -webkit-text-stroke: 3.5px black;
 }
 .box{
   position: absolute;
