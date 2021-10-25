@@ -1,6 +1,6 @@
 @font-face{
     font-family: Bjork;
-    src: url("bjork.ttf");
+    src: url("bjork.ttf") format("woff");
 }
 
 body {background-color: white}
