@@ -9,6 +9,7 @@ h1 {
   font-family: 'CrucifixionRegular';
   font-size: 9vw;
   text-align: center;
+  letter-spacing: 2.5px
   -webkit-text-stroke: 0.15vw black;
 }
 .box{
