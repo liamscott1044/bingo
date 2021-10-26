@@ -21,23 +21,16 @@ h1 {
   transform: translate(-50%, -50%);
 }
 a{
-  font-family: Arial;
-  text-align: center;
+  font-family: "Courier New;"
+  text-align: "center;"
   font-size: 2vw;
 }
-a:link {
-  background-color: green;
-  text-align: center;
-}
-a:visited {
+a:link, a:visited {
   background-color: rgb(37, 187, 39);
-  text-align: center;
 }
 a:hover {
   background-color: yellow;
-  text-align: center;
 }
 a:active {
   background-color: hotpink;
-  text-align: center;
 } 
