@@ -25,12 +25,3 @@ a{
   font-size: 2vw;
   text-align: center;
 }
-a:link, a:visited {
-  background-color: rgb(37, 187, 39);
-}
-a:hover {
-  background-color: yellow;
-}
-a:active {
-  background-color: hotpink;
-} 
