@@ -21,8 +21,8 @@ h1 {
   transform: translate(-50%, -50%);
 }
 a{
-  font-family: "Courier New;"
-  text-align: "center;"
+  font-family: Courier New;
+  text-align: right;
   font-size: 2vw;
 }
 a:link, a:visited {
