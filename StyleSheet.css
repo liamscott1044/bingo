@@ -31,9 +31,6 @@ a:hover {
   text-decoration: none;
   color: rgb(37, 187, 39);
 }
-#block1, #block2 {
-    display: in-line;
-}
 .fix-stroke {
    text-shadow:
     -1px -1px 0 #000,
