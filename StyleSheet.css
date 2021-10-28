@@ -8,6 +8,7 @@
 }
 
 body {background-color: white}
+cursor: crosshair;
 h1 {
   color: rgb(37, 187, 39);
   font-family: 'CrucifixionRegular';
