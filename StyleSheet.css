@@ -23,6 +23,7 @@ h2 {
   text-align: center;
   -webkit-text-stroke: 0.01vw black;
   margin-top: 20px;
+  display: inline;
 }
 .box{
   position: fixed;
