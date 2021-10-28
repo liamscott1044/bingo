@@ -21,7 +21,6 @@ h2 {
   font-family: 'Casta';
   font-size: 4vw;
   text-align: center;
-  -webkit-text-stroke: 0.005vw black;
   margin-top: 20px;
   display: inline;
 }
