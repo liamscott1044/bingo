@@ -25,7 +25,7 @@ h2 {
   display: inline;
 }
 a {
-
+  text-decoration: none;
 }
 a:hover {
   cursor: pointer;
