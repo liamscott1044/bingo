@@ -24,7 +24,7 @@ h2 {
   margin-top: 20px;
   display: inline;
 }
-a {
+#menu a {
   text-decoration: none;
   color: rgb(37, 187, 39);
 }
