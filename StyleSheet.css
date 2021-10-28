@@ -25,6 +25,9 @@ h2 {
   margin-top: 20px;
   display: inline;
 }
+.fix-stroke {
+   paint-order: stroke fill;
+}
 .box{
   position: fixed;
   text-align: center;
