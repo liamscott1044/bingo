@@ -24,12 +24,15 @@ h2 {
   margin-top: 20px;
   display: inline;
 }
+a:hover {
+  cursor: pointer;
+}
 #menu a {
   text-decoration: none;
   color: rgb(37, 187, 39);
 }
-a:hover {
-  cursor: pointer;
+#block1, #block2 {
+    display: in-line;
 }
 .fix-stroke {
    text-shadow:
